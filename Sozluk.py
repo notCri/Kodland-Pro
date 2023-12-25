@@ -33,6 +33,7 @@ print("\nTeşekkür ederiz! Meme Sözlüğü'nu kullandığınız için umarız 
 ---------
 2. Kod
 ---------
+
 meme_dict = {
             "CRINGE": "Garip ya da utandırıcı bir şey",
             "LOL": "Komik bir şeye verilen cevap",
