@@ -29,7 +29,6 @@ print("\nTeşekkür ederiz! Meme Sözlüğü'nu kullandığınız için umarız 
 
 
 
-
 ---------
 2. Kod
 ---------
